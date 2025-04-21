@@ -84,7 +84,6 @@ class QemuAT7 < Formula
         --cc=#{ENV.cc}
         --host-cc=#{ENV.cc}
         --disable-bsd-user
-        --disable-download
         --disable-guest-agent
         --enable-slirp
         --enable-capstone
