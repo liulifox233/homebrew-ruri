@@ -1,4 +1,4 @@
-class Qemu < Formula
+class QemuAT7 < Formula
     desc "Generic machine emulator and virtualizer"
     homepage "https://www.qemu.org/"
     url "https://download.qemu.org/qemu-7.0.0.tar.xz"
